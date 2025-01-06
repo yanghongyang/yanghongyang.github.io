@@ -2,15 +2,8 @@
 <search>
   <entry>
     <title>Hexo Manual</title>
-    <url>/2022/09/08/Hexo-manual/</url>
-    <content><![CDATA[<div class="note primary"><p>Content (md partial supported) </p></div>
-
-<blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p>
-</blockquote>
-
-<blockquote class="blockquote-center"><p>blah blah blah</p>
-</blockquote>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <url>/2025/01/05/Hexo-manual/</url>
+    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
 <span id="more"></span>
@@ -23,13 +16,19 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<h3 id="Quote-examples"><a href="#Quote-examples" class="headerlink" title="Quote examples"></a>Quote examples</h3><div class="note primary"><p>Content (md partial supported) </p></div>
+
+<blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p>
+</blockquote>
+
+<blockquote class="blockquote-center"><p>blah blah blah</p>
+</blockquote>
 ]]></content>
       <categories>
-        <category>test</category>
+        <category>Hexo</category>
       </categories>
       <tags>
-        <tag>Testing</tag>
-        <tag>Another Tag</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>
